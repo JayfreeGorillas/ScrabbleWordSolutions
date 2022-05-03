@@ -18,7 +18,6 @@ var wordsWithVowelsInAlphabeticalOrder = [String]()
 var wordsWithVowelsInOrder: [String] = []
 
 var alphabet = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
-    // lazy var NameList: [String] = UserDefaults.standard.array(forKey: "NameList") as? [String] ?? [String]()
     
     
     override func viewDidLoad() {
